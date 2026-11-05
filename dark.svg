@@ -222,7 +222,7 @@
   <circle cx="88" cy="46" r="6" fill="#27c93f"/>
 
   <!-- Left Main Tab -->
-  <text x="114" y="50" class="font-mono label-cyan" font-size="14" font-weight="bold">vaibhav/README.md</text>
+  <text x="114" y="50" class="font-mono label-cyan" font-size="14" font-weight="bold">AmirHossein/README.md</text>
 
   <!-- Top Right Nav Tabs -->
   <g class="font-mono dim-cyan" font-size="11.5" opacity="0.8">
@@ -340,7 +340,7 @@
     <!-- Terminal Prompt Line -->
     <g transform="translate(20, 48)" class="font-mono" font-size="13">
       <text x="0" y="0" font-weight="bold">
-        <tspan fill="#3b82f6">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
+        <tspan fill="#3b82f6">AmirHossein@developer</tspan><tspan fill="#64748b">:~#</tspan> <tspan fill="#e2f1ff">./profile.sh</tspan>
       </text>
     </g>
 
@@ -349,7 +349,7 @@
       <!-- Name -->
       <text x="0" y="0" class="label-cyan">&gt; Name</text>
       <text x="56" y="0" class="muted-dots">............................</text>
-      <text x="175" y="0" class="white-text" font-weight="500">Vaibhav Khushalani</text>
+      <text x="175" y="0" class="white-text" font-weight="500">AmirHossein Forouzan</text>
 
       <!-- Role -->
       <text x="0" y="20" class="label-cyan">&gt; Role</text>
@@ -418,7 +418,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/vaibhavkhushalani</text>
+      <text x="175" y="21" class="white-text">github.com/AmirHosseinForouzan</text>
 
       <!-- Portfolio -->
       <g transform="translate(18, 30)">
@@ -428,7 +428,7 @@
       </g>
       <text x="36" y="40" class="label-cyan">Portfolio</text>
       <text x="110" y="40" class="muted-dots">.....................</text>
-      <text x="175" y="40" class="white-text">vaibhavkhushalani.com</text>
+      <text x="175" y="40" class="white-text"></text>
 
       <!-- LinkedIn -->
       <g transform="translate(18, 49)">
@@ -437,17 +437,16 @@
       </g>
       <text x="36" y="59" class="label-cyan">LinkedIn</text>
       <text x="105" y="59" class="muted-dots">......................</text>
-      <text x="175" y="59" class="white-text">linkedin.com/in/vaibhavkhushalani</text>
+      <text x="175" y="59" class="white-text">linkedin.com/in/AmirHosseinForouzan</text>
 
       <!-- Instagram -->
       <g transform="translate(18, 68)">
-        <rect x="0.5" y="0.5" width="11" height="11" rx="3" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
-        <circle cx="6" cy="6" r="2.2" fill="none" stroke="#38bdf8" stroke-width="1.1"/>
-        <circle cx="9.2" cy="2.8" r="0.6" fill="#38bdf8"/>
+        <path d="M11 1L1 5.2l3.8 1.8L6.6 11 11 1z" fill="none" stroke="#0284c7" stroke-width="1.1" stroke-linejoin="round"/>
+        <path d="M11 1L4.8 7" fill="none" stroke="#0284c7" stroke-width="1.1" stroke-linecap="round"/>
       </g>
-      <text x="36" y="78" class="label-cyan">Instagram</text>
+      <text x="36" y="78" class="label-cyan">Telegram</text>
       <text x="115" y="78" class="muted-dots">....................</text>
-      <text x="175" y="78" class="white-text">@vaibhav.create</text>
+      <text x="175" y="78" class="white-text">@SoftEngDev</text>
     </g>
 
 
@@ -470,7 +469,7 @@
     <!-- Bottom Active Terminal Prompt Line with Blinking Cursor -->
     <g transform="translate(20, 478)" class="font-mono" font-size="12.5">
       <text x="0" y="0">
-        <tspan fill="#3b82f6" font-weight="bold">vaibhav@developer</tspan><tspan fill="#64748b">:~#</tspan>
+        <tspan fill="#3b82f6" font-weight="bold">AmirHossein@developer</tspan><tspan fill="#64748b">:~#</tspan>
       </text>
       <rect x="150" y="-11" width="7.5" height="13" fill="#ffffff" class="cursor-blink"/>
     </g>
