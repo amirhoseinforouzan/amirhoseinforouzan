@@ -1,9 +1,9 @@
-# Hi, I'm Vaibhav Khushalani 👋
+# Hey there! 👋 I'm AmirHossein
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI & SaaS Builder">
+  <img src="./dark.svg" alt="Vaibhav Khushalani — AI Engineer, Full-Stack Engineer and AI">
 </picture>
 
 <p align="center">
@@ -15,176 +15,170 @@
   &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 System Design
 </p>
 
-I build **AI-powered products, scalable backend systems, SaaS platforms, automation workflows, and production web applications**.
+Backend Developer | C# & .NET | Node.js | Full-Stack Development
 
-My current engineering interests sit at the intersection of **AI/LLMs, Python, serverless systems, full-stack development, backend architecture, and developer automation**.
+I'm a developer passionate about building **reliable backend systems, RESTful APIs, database-driven applications, and modern web experiences**.
 
----
+I enjoy solving real-world problems through clean code, scalable architecture, and practical software solutions.
 
-## 🤖 What I Build
-
-- 🧠 **AI / LLM applications** — LLM integrations, AI workflows and intelligent product features
-- 🐍 **Python systems** — APIs, automation, AI services and backend tooling
-- ⚡ **AI bots & serverless workflows** — AWS Lambda-powered automation and AI processing
-- 🚀 **SaaS products** — multi-user applications, dashboards, payments and product infrastructure
-- ⚙️ **Backend systems** — APIs, async processing, caching, real-time systems and integrations
-- ⚛️ **Full-stack applications** — React, Next.js, Node.js and TypeScript
-- 📈 **Performance & scalability** — production optimization, high-volume processing and system design
+- 💻 Focused on **C#, .NET, Node.js, and Backend Development**
+- ⚙️ Building REST APIs and server-side applications
+- 🗄️ Working with relational databases and data-driven systems
+- ⚛️ Developing frontend applications with React and TypeScript
+- 🚀 Interested in software architecture, performance, and clean code
+- 📚 Always learning and improving my engineering skills
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### Software Engineer III — Forrester Research
-**May 2026 – Present**
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
-Working across modern product engineering with a growing focus on **AI engineering and intelligent automation**.
+### ⚙️ Backend Development
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-- Building production applications with **React, Next.js and TypeScript**
-- Working with **Python and AI/LLM technologies**
-- Exploring and building **AI bots / intelligent automation workflows**
-- Working with **AWS Lambda and serverless architectures**
-- Integrating APIs and building resilient application workflows
-- Working with **React Query, PostgreSQL, Turso, Drizzle and modern cloud tooling**
-- Focused on scalable architecture, developer productivity and production-quality systems
-
-### Software Developer — Hestabit Technologies
-**Jul 2025 – May 2026**
-
-- Worked on modern web applications and product engineering initiatives
-- Built interfaces and integrations using JavaScript / TypeScript technologies
-- Contributed to production application development and engineering workflows
-
-### Software Developer — SellersCommerce
-**Mar 2023 – Jul 2025**
-
-- Built high-throughput systems processing **100k+ records per run**
-- Developed REST APIs, billing workflows and Shopify integrations
-- Worked on microfrontend architecture across multiple teams
-- Improved application performance through SSR, caching and system optimization
-- Built production workflows around scalable e-commerce infrastructure
-
-### Software Developer — Kylo Apps
-**Jan 2022 – Mar 2023**
-
-- Built full-stack MERN applications, dashboards and admin panels
-- Developed reusable UI systems and frontend architecture
-- Improved performance using lazy loading and application optimization
-
----
-
-## 🧩 Featured Projects
-
-### 🔥 ArtGenio — AI Platform
-[artgenio.com](https://artgenio.com)
-
-AI-powered platform combining an **AI prompt marketplace, Creator Hub and multiple AI tools**.
-
-- AI-powered creator workflows
-- Subscription + one-time payments
-- Razorpay + PayPal
-- Admin dashboard and analytics
-- SEO-focused content architecture
-- **Next.js · MongoDB · Gemini API · AI workflows**
-
-### 🚀 EasyFolio — Portfolio SaaS
-[Live Demo](https://easyfolio.wuwb.in/vaibhav_khushalani)
-
-- Multi-user portfolio builder
-- Admin / sub-admin roles
-- Multiple portfolio themes
-- PDF CV parsing
-- Cloudinary uploads
-- **Next.js · Turso/libSQL · Drizzle ORM · NextAuth**
-
-### ⚡ Real-Time Multiplayer Tic Tac Toe
-[GitHub Repository](https://github.com/VaibhavKhushalani/tic-tac-toe)
-
-- WebSocket-based multiplayer architecture
-- Room-based synchronization
-- Server-authoritative game state
-- **Node.js · Socket.IO**
-
-### 🌐 WUWB — Goal Tracking Platform
-[wuwb.in](https://wuwb.in)
-
-- Full-stack goal tracking platform
-- User interaction and dynamic application workflows
-- **React · Node.js · Express · MongoDB**
-
----
-
-## 🛠️ Engineering Stack
-
-### 🤖 AI / Machine Learning
-`Python` `LLMs` `AI Agents` `AI Bots` `Gemini API` `LangChain` `FAISS` `LLM APIs` `AI Automation`
-
-### ⚛️ Frontend
-`React` `Next.js` `TypeScript` `JavaScript` `Redux` `React Query` `Tailwind CSS` `Material UI`
-
-### ⚙️ Backend
-`Node.js` `Express` `FastAPI` `REST APIs` `GraphQL` `Socket.IO`
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🗄️ Databases
-`PostgreSQL` `MongoDB` `Redis` `Turso / libSQL` `Drizzle ORM`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ☁️ Cloud / DevOps
-`AWS` `AWS Lambda` `Docker` `Nginx` `GitHub Actions` `Vercel`
-
-### 🧠 Architecture
-`System Design` `Microfrontends` `API Architecture` `Real-time Systems` `Async Workflows` `Caching` `Performance Optimization`
-
----
-
-## ✍️ Technical Writing
-
-I write about **backend engineering, AI products, performance and real-world engineering challenges**.
-
-- Real-time systems with Socket.IO
-- Node.js performance optimization
-- AI product architecture
-- LLM-powered applications
-- Subscription and payment systems
-- Production debugging and optimization
-
-[Read my articles on Medium →](https://medium.com/@vaibhavkhushalani)
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity
+## 🚀 Featured Projects
+
+### 🎓 University Course Registration System
+
+A full-stack academic management platform designed to simplify university course registration.
+
+- Role-based authentication: Student, Admin, and Super Admin
+- Course registration with credit limits
+- Prerequisite and co-requisite management
+- Student-specific credit restrictions
+- Semester and course scheduling
+- Exam schedules and student calendar
+- Announcements and user management
+
+**Technologies:** React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Docker
+
+---
+
+### 🎫 Ticket Management System
+
+A support ticket platform designed to manage communication between users, support agents, and administrators.
+
+- Role-based access control
+- Ticket creation, assignment, and tracking
+- Real-time ticket ownership and assignment workflow
+- Internal notes for support agents
+- Customer satisfaction ratings and feedback
+- Performance reports and analytics
+- Official response letters and PDF generation
+
+**Technologies:** JavaScript, Node.js, React, MySQL, PDFKit
+
+---
+
+### 💬 Real-Time Messaging Application
+
+A web-based messaging application focused on real-time communication and group collaboration.
+
+- Real-time messaging with Socket.IO
+- Private and group conversations
+- User authentication and profile management
+- Message editing and deletion
+- File and image sharing
+- Online status and typing indicators
+- Group and user management
+
+**Technologies:** Node.js, Socket.IO, JavaScript, HTML, CSS
+
+---
+
+### 🛒 E-Commerce Web Application
+
+A modern e-commerce frontend inspired by popular online shopping platforms.
+
+- Product listing and search
+- Product details and modal views
+- Shopping cart functionality
+- User menu and navigation components
+- Responsive layouts
+- Browser-based data persistence
+
+**Technologies:** React, JavaScript, Tailwind CSS, Swiper, LocalStorage
+
+---
+
+### 📊 CSV to SQL Server Importer
+
+A desktop application for importing CSV data into SQL Server databases.
+
+- CSV file processing
+- SQL Server database integration
+- Desktop interface for data import workflows
+
+**Technologies:** C#, .NET 8, WPF, SQL Server
+
+---
+
+## 🧠 Areas of Interest
+
+- Backend Engineering
+- RESTful API Design
+- Database Design & Optimization
+- Object-Oriented Programming
+- Software Architecture
+- Full-Stack Development
+- Real-Time Applications
+- Clean Code & Maintainable Systems
+- Performance Optimization
+
+---
+
+## 📈 What I'm Working On
+
+- Improving my backend engineering skills with C# and .NET
+- Building scalable applications with Node.js and Express
+- Developing modern interfaces with React and TypeScript
+- Exploring database architecture and optimization
+- Practicing API development and testing with Postman
+- Building practical projects that solve real-world problems
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, sharing ideas, and collaborating on interesting software projects.
+
+📧 **Email:** YOUR_EMAIL
+
+💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+
+🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+
+---
 
 <p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=VaibhavKhushalani&hide=forks,prs_merged,issues,contributed" alt="GitHub profile statistics">
+  <b>Building reliable systems, writing clean code, and learning every day. 🚀</b>
 </p>
-
-<h2 align="center">Contribution Activity</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/VaibhavKhushalani/github-snake/output/github-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p>
-  💼 <a href="https://www.linkedin.com/in/vaibhav-khushalani-760217136/">LinkedIn</a><br>
-  🌐 <a href="https://easyfolio.wuwb.in/vaibhav_khushalani">Portfolio</a><br>
-  📝 <a href="https://medium.com/@vaibhavkhushalani">Medium</a><br>
-  📧 <a href="mailto:vaibhavkhushlani04@gmail.com">Email</a>
-</p>
-
-> **Build things. Automate the boring parts. Scale what matters.**
