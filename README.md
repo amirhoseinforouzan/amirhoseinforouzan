@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🤖 AI / LLMs &nbsp;·&nbsp; 🐍 Python &nbsp;·&nbsp; ⚡ AWS Lambda &nbsp;·&nbsp; ⚛️ React / Next.js
+  🤖 AI / LLMs &nbsp;·&nbsp; 💻 C# &nbsp;·&nbsp; 🐘 PHP &nbsp;·&nbsp; ⚛️ React / Next.js
   &nbsp;·&nbsp; ⚙️ Node.js &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🧠 System Design
 </p>
 
@@ -66,36 +66,6 @@ I enjoy solving real-world problems through clean code, scalable architecture, a
 ---
 
 ## 🚀 Featured Projects
-
-### 🎓 University Course Registration System
-
-A full-stack academic management platform designed to simplify university course registration.
-
-- Role-based authentication: Student, Admin, and Super Admin
-- Course registration with credit limits
-- Prerequisite and co-requisite management
-- Student-specific credit restrictions
-- Semester and course scheduling
-- Exam schedules and student calendar
-- Announcements and user management
-
-**Technologies:** React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Docker
-
----
-
-### 🎫 Ticket Management System
-
-A support ticket platform designed to manage communication between users, support agents, and administrators.
-
-- Role-based access control
-- Ticket creation, assignment, and tracking
-- Real-time ticket ownership and assignment workflow
-- Internal notes for support agents
-- Customer satisfaction ratings and feedback
-- Performance reports and analytics
-- Official response letters and PDF generation
-
-**Technologies:** JavaScript, Node.js, React, MySQL, PDFKit
 
 ---
 
@@ -171,11 +141,11 @@ A desktop application for importing CSV data into SQL Server databases.
 
 I'm always interested in connecting with developers, sharing ideas, and collaborating on interesting software projects.
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** amirhoseinfo18@gmail.com
 
-💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+<!--💼 **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
 
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+🌐 **Portfolio:** YOUR_PORTFOLIO_URL-->
 
 ---
 
