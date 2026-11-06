@@ -359,12 +359,12 @@
       <!-- Location -->
       <text x="0" y="40" class="label-cyan">&gt; Location</text>
       <text x="82" y="40" class="muted-dots">........................</text>
-      <text x="175" y="40" class="white-text">Noida, India</text>
+      <text x="175" y="40" class="white-text">Iran, Esfahan</text>
 
       <!-- Experience -->
       <text x="0" y="60" class="label-cyan">&gt; Experience</text>
       <text x="96" y="60" class="muted-dots">......................</text>
-      <text x="175" y="60" class="white-text">4+ Years</text>
+      <text x="175" y="60" class="white-text">10+ Years</text>
 
       <!-- Stack -->
       <text x="0" y="80" class="label-cyan">&gt; Stack</text>
@@ -418,7 +418,7 @@
       </g>
       <text x="36" y="21" class="label-cyan">GitHub</text>
       <text x="96" y="21" class="muted-dots">.......................</text>
-      <text x="175" y="21" class="white-text">github.com/AmirHosseinForouzan</text>
+      <text x="175" y="21" class="white-text">github.com/AmirHoseinForouzan</text>
 
       <!-- Portfolio -->
       <g transform="translate(18, 30)">
